@@ -1,7 +1,7 @@
 {
-  "name": "@react-select/monorepo",
+  "name": "@react-select/monorepo/meshmd",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Select control built with and for ReactJS",
   "author": "Jed Watson",
   "license": "MIT",
